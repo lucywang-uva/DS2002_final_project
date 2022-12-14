@@ -1,0 +1,35 @@
+{"intents": [
+  {"tag": "question 1",
+    "patterns": ["2008 most popular movie", "What was the most popular movie in 2008?", "What was the most famous movie in 2008?", "What was the top rated movie in 2008?", "In 2008, what was the highest scoring movie?"]
+   }, 
+   {"tag": "question 2",
+    "patterns": ["Number of drama shows", "How many of the most popular shows are dramas?", "What is the number of the best shows that are drama"]
+   },
+   {"tag": "question 3",
+    "patterns": ["Votes of highest scored movie", "How many votes did the highest scored movie recieve?", "What is the number of votes for the highest scoring movie?", "Show the number of votes for the highest scoring movie"]
+   },
+   {"tag": "question 4",
+    "patterns": ["Country of top movie in 2015", "What country was the top film from 2015 filmed in?",  "Where was the top movie from 2015 filmed?"]
+   }, 
+   {"tag": "question 5",
+    "patterns": ["Oldest TV show", "What is the oldest tv show netflix has?", "What is the earliest tv show netflix released?", "Show oldest netflix tv show"]
+   }, 
+  {"tag": "question 6",
+   "patterns": ["Highest scored movie", "What is the highest scored movie?", "Which movie scored the higest?", "Show the highest scored movie", "Show the highest scoring movie", "What is the most popular movie overall?"]
+  },
+   {"tag": "question 7",
+    "patterns": ["Most popular movie genre", "What is the most popular movie genre?", "What movie genre did most people watch", "What is the most popular movie genre of all time?"]
+   }, 
+   {"tag": "question 8",
+    "patterns": ["Duration of top scored movie", "How many minutes long was the top scored movie?", "What was the duration of the top scored movie?", "How long was the most popular movie?"]
+   },
+   {"tag": "question 9",
+    "patterns": ["What was the best tv show from 2020?", "What was the most popular show in 2020?"]
+   },
+   {"tag": "question 10",
+    "patterns": ["Least popular movie age certification", "What is the age certification of the least popular movie?",  "What is the age certification of the lowest rated movie"]
+   }
+   
+   
+]
+}
